@@ -1,6 +1,6 @@
 # Tf-idf
 
-Introduction:
+#Introduction#:
 Tf-idf represents “term frequency – Inverse Document Frequency” which is a numeric statistic that intended to reflect the importance of a word in the collection or corpus and is calculated by the equation: Term Frequency (TF) * Inverse Document Frequency (IDF). This method is a widely used technique all over the world in information retrieval and text mining.
 
 Design & Implementation:
